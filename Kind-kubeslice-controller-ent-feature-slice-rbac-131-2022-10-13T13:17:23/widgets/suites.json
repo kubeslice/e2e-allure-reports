@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"912eb05c07850c392698c20b184e5495","name":"Hub Suite","statistic":{"failed":15,"broken":0,"skipped":4,"passed":5,"unknown":0,"total":24}},{"uid":"da9589718ff8c1429131371867fea4a7","name":"Empty Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":7,"unknown":0,"total":7}}]}
