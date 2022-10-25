@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"44a2dfd6e36e79eb9a2a1dce0a284110","name":"Worker Suite","statistic":{"failed":10,"broken":0,"skipped":38,"passed":38,"unknown":0,"total":86}},{"uid":"fd9fc4b182a2f5a93543c89e23522f66","name":"Intracluster Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":10,"unknown":0,"total":10}}]}
