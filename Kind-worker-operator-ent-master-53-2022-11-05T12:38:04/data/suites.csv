@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Sat Nov 05 12:28:19 GMT 2022","Sat Nov 05 12:31:49 GMT 2022","210734","","Worker Suite","","Worker Suite","","[AfterSuite]",""
-"failed","Sat Nov 05 12:28:19 GMT 2022","Sat Nov 05 12:34:20 GMT 2022","361171","","Worker Suite","","Worker Suite","","[BeforeSuite]",""

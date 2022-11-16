@@ -1,1 +1,0 @@
-[{"uid":"de40bd9c0171b7d9","name":"[AfterSuite]","time":{"start":1667595443000,"stop":1667595472030,"duration":29030},"status":"passed","severity":"normal"},{"uid":"bec9acd7fe46f947","name":"[BeforeSuite]","time":{"start":1667595443000,"stop":1667595808921,"duration":365921},"status":"failed","severity":"normal"}]
