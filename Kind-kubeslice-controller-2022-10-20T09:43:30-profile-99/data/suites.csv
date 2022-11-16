@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Thu Oct 20 09:42:02 GMT 2022","Thu Oct 20 09:43:17 GMT 2022","75418","","Worker Suite","","Worker Suite","","[BeforeSuite]",""
-"passed","Thu Oct 20 09:41:42 GMT 2022","Thu Oct 20 09:41:43 GMT 2022","1653","","Intracluster Suite","","Intracluster Suite","","[AfterSuite]",""
-"failed","Thu Oct 20 09:41:42 GMT 2022","Thu Oct 20 09:42:00 GMT 2022","18741","","Intracluster Suite","","Intracluster Suite","","[BeforeSuite]",""
-"passed","Thu Oct 20 09:42:02 GMT 2022","Thu Oct 20 09:42:03 GMT 2022","1658","","Worker Suite","","Worker Suite","","[AfterSuite]",""

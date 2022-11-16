@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Nov 08 07:35:57 GMT 2022","Tue Nov 08 07:35:59 GMT 2022","2645","","Controller Suite","","Controller Suite","","[AfterSuite]",""
-"failed","Tue Nov 08 07:35:57 GMT 2022","Tue Nov 08 07:36:19 GMT 2022","22427","","Controller Suite","","Controller Suite","","[BeforeSuite]",""
