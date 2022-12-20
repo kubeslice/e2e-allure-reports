@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue Dec 20 10:44:24 GMT 2022","Tue Dec 20 10:44:24 GMT 2022","228","","Controller Suite","","Controller Suite","","[AfterSuite]",""
+"failed","Tue Dec 20 10:44:28 GMT 2022","Tue Dec 20 10:44:28 GMT 2022","59","","Worker Suite","","Worker Suite","","[BeforeSuite]",""
+"failed","Tue Dec 20 10:44:28 GMT 2022","Tue Dec 20 10:44:28 GMT 2022","95","","Worker Suite","","Worker Suite","","[AfterSuite]",""
+"failed","Tue Dec 20 10:44:24 GMT 2022","Tue Dec 20 10:44:24 GMT 2022","233","","Controller Suite","","Controller Suite","","[BeforeSuite]",""
