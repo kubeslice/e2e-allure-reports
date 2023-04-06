@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"c35634d0b08f99210fd6f8c2c499b316","name":"slicehealth Suite","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}},{"uid":"da9589718ff8c1429131371867fea4a7","name":"Empty Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":7,"unknown":0,"total":7}}]}
