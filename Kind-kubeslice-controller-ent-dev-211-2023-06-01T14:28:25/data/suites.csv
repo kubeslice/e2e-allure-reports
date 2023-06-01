@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Jun 01 14:25:20 GMT 2023","Thu Jun 01 14:28:00 GMT 2023","160448","","Controller Suite","","Controller Suite","","[BeforeSuite]",""
+"passed","Thu Jun 01 14:25:20 GMT 2023","Thu Jun 01 14:25:30 GMT 2023","10913","","Controller Suite","","Controller Suite","","[AfterSuite]",""
