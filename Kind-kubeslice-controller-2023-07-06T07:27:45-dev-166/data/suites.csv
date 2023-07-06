@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu Jul 06 07:02:29 GMT 2023","Thu Jul 06 07:12:32 GMT 2023","603804","","Hub Suite","","Hub Suite","","[BeforeSuite]",""
+"failed","Thu Jul 06 07:22:35 GMT 2023","Thu Jul 06 07:22:35 GMT 2023","543","","SliceHealth Suite","","SliceHealth Suite","","[BeforeSuite]",""
+"failed","Thu Jul 06 07:17:34 GMT 2023","Thu Jul 06 07:17:34 GMT 2023","455","","Intracluster Suite","","Intracluster Suite","","[BeforeSuite]",""
+"passed","Thu Jul 06 07:22:35 GMT 2023","Thu Jul 06 07:27:35 GMT 2023","300676","","SliceHealth Suite","","SliceHealth Suite","","[AfterSuite]",""
+"passed","Thu Jul 06 07:02:29 GMT 2023","Thu Jul 06 07:07:30 GMT 2023","301054","","Hub Suite","","Hub Suite","","[AfterSuite]",""
+"passed","Thu Jul 06 07:17:34 GMT 2023","Thu Jul 06 07:22:34 GMT 2023","300532","","Intracluster Suite","","Intracluster Suite","","[AfterSuite]",""
